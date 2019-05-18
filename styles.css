@@ -1,6 +1,46 @@
+nav ul img {
+  margin-right: 20px;
+}
 
 
-img {
-  height: 70px;
-  width: 70px;
+#title {
+  background-color: black;
+}
+h1 {
+  margin: 50px auto;
+}
+article {
+  color: white;
+  margin-top: 250px;
+  padding-bottom:150px;
+  text-align: center;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+}
+
+.iconNav {
+  height: 40px;
+  width: 40px;
+}
+
+.icon {
+  height:30px;
+  width: 30px;
+}
+
+.projectImg {
+  width: auto;
+  height: 160px;
+}
+
+.bottomContainer {
+  width:100%;
+  text-align: center;
+}
+
+.bottomContainer ul li{
+  list-style: none;
+  margin-right: 34px;
 }
